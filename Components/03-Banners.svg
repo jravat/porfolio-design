@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+    <title>Components/03-Banners</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Composants" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Components/03-Banners" sketch:type="MSArtboardGroup">
+            <path d="M65.5,530.503837 L65.5,561.810059" id="Line-2" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M287.5,530.503837 L287.5,670.093757" id="Line-3" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
+                <text id="Information-banners" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Information banners</tspan>
+                </text>
+                <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group-12" sketch:type="MSLayerGroup" transform="translate(34.000000, 349.000000)">
+                <rect id="Rectangle-25" fill="#82B00A" sketch:type="MSShapeGroup" x="0" y="0" width="635" height="60"></rect>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="30" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="20" y="42"></tspan>
+                </text>
+                <text id="This-is-a-validation" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="68" y="27">This is a validation message</tspan>
+                </text>
+                <text id="Everything-is-fine,-" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="68" y="43">Everything is fine, you’re good</tspan>
+                </text>
+                <g id="Rectangle-10-+-Fermer-13" transform="translate(542.000000, 16.000000)">
+                    <path d="M3.99501486,0 C1.78862908,0 -1.77635684e-15,1.79412025 -1.77635684e-15,3.99683887 L-1.77635684e-15,24.0031611 C-1.77635684e-15,26.2105543 1.79057591,28 3.99501486,28 L67.0049851,28 C69.2113709,28 71,26.2058797 71,24.0031611 L71,3.99683887 C71,1.78944571 69.2094241,0 67.0049851,0 L3.99501486,0 Z" id="Rectangle-10" stroke="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <text id="close" sketch:type="MSTextLayer" font-family="Lato" font-size="14" font-weight="260" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="19.7785" y="19">close</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-9" sketch:type="MSLayerGroup" transform="translate(34.000000, 239.000000)">
+                <rect id="Rectangle-24" fill="#028ECA" sketch:type="MSShapeGroup" x="0" y="0" width="635" height="60"></rect>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="30" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="30" y="41"></tspan>
+                </text>
+                <text id="This-an-information-" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="68" y="26">This an information message</tspan>
+                </text>
+                <text id="There-is-something-w" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="68" y="43">There is something we want you to know</tspan>
+                </text>
+                <g id="Rectangle-10-+-Fermer-11" transform="translate(544.000000, 16.000000)">
+                    <path d="M3.99501486,0 C1.78862908,0 -1.77635684e-15,1.79412025 -1.77635684e-15,3.99683887 L-1.77635684e-15,24.0031611 C-1.77635684e-15,26.2105543 1.79057591,28 3.99501486,28 L67.0049851,28 C69.2113709,28 71,26.2058797 71,24.0031611 L71,3.99683887 C71,1.78944571 69.2094241,0 67.0049851,0 L3.99501486,0 Z" id="Rectangle-10" stroke="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <text id="close" sketch:type="MSTextLayer" font-family="Lato" font-size="14" font-weight="260" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="19.7785" y="19">close</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-10" sketch:type="MSLayerGroup" transform="translate(34.000000, 119.000000)">
+                <rect id="Rectangle-23" fill="#F5CE35" sketch:type="MSShapeGroup" x="0" y="0" width="635" height="60"></rect>
+                <text id="-2" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="30" font-weight="normal" fill="#333333">
+                    <tspan x="20" y="42"></tspan>
+                </text>
+                <text id="This-is-an-error-mes" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="normal" fill="#333333">
+                    <tspan x="68" y="27">This is an error message</tspan>
+                </text>
+                <text id="There-is-nothing-you" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#333333">
+                    <tspan x="68" y="43">There is nothing you can do about it, but it may affect your experience</tspan>
+                </text>
+                <g id="Rectangle-10-+-Fermer-12" transform="translate(544.000000, 16.000000)">
+                    <rect id="Rectangle-10" stroke="#333333" sketch:type="MSShapeGroup" x="0" y="0" width="71" height="28" rx="4"></rect>
+                    <text id="close" sketch:type="MSTextLayer" font-family="Lato" font-size="14" font-weight="260" sketch:alignment="middle" fill="#333333">
+                        <tspan x="20.7785" y="19">close</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-11" sketch:type="MSLayerGroup" transform="translate(34.000000, 459.000000)">
+                <rect id="Rectangle-26" fill="#D0534E" sketch:type="MSShapeGroup" x="0" y="0" width="635" height="60"></rect>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="30" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="19" y="41"></tspan>
+                </text>
+                <g id="Rectangle-10-+-Fermer-9" transform="translate(442.000000, 18.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="80" height="28" rx="4"></rect>
+                    <text id="valider" sketch:type="MSTextLayer" font-family="Lato" font-size="14" font-weight="260" sketch:alignment="middle" fill="#D0534E">
+                        <tspan x="19.6825" y="19">valider</tspan>
+                    </text>
+                </g>
+                <text id="This-is-an-attention" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="75" y="26">This is an attention message</tspan>
+                </text>
+                <text id="What-you-are-about-t" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="75" y="42">What you are about to do will have consequences, are you sure ?</tspan>
+                </text>
+                <g id="Rectangle-10-+-Fermer-14" transform="translate(538.000000, 18.000000)">
+                    <path d="M3.99501486,0 C1.78862908,0 -1.77635684e-15,1.79412025 -1.77635684e-15,3.99683887 L-1.77635684e-15,24.0031611 C-1.77635684e-15,26.2105543 1.79057591,28 3.99501486,28 L67.0049851,28 C69.2113709,28 71,26.2058797 71,24.0031611 L71,3.99683887 C71,1.78944571 69.2094241,0 67.0049851,0 L3.99501486,0 Z" id="Rectangle-10" stroke="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <text id="close" sketch:type="MSTextLayer" font-family="Lato" font-size="14" font-weight="260" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="19.7785" y="19">close</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="54" y="119" width="30" height="16"></rect>
+            <text id="Used-for-errors-not-" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                <tspan x="703" y="160">Used for errors not related to a user’s </tspan>
+                <tspan x="703" y="176">action</tspan>
+                <tspan x="703" y="192">eg. « The database connection has </tspan>
+                <tspan x="703" y="208">been lost »</tspan>
+            </text>
+            <text id="Error-banner" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
+                <tspan x="703" y="138">Error banner</tspan>
+            </text>
+            <text id="Used-to-display-info" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                <tspan x="703" y="279">Used to display information</tspan>
+                <tspan x="703" y="295">eg. « A brand new feature is available »</tspan>
+            </text>
+            <text id="Information-banner" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
+                <tspan x="703" y="257">Information banner</tspan>
+            </text>
+            <text id="Used-to-display-conf" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                <tspan x="703" y="389">Used to display confirmation messages</tspan>
+                <tspan x="703" y="405">eg. « Your modification has been </tspan>
+                <tspan x="703" y="421">saved »</tspan>
+            </text>
+            <text id="Validation-banner" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
+                <tspan x="703" y="367">Validation banner</tspan>
+            </text>
+            <text id="Used-to-draw-the-att" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                <tspan x="703" y="498">Used to draw the attention of the user </tspan>
+                <tspan x="703" y="514">and ask confirmation</tspan>
+                <tspan x="703" y="530">eg. « You are about to erase all your </tspan>
+                <tspan x="703" y="546">rates, are you sure ? »</tspan>
+            </text>
+            <text id="Attention-banner" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
+                <tspan x="703" y="476">Attention banner</tspan>
+            </text>
+            <text id="Could-be-customized" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" fill="#939393">
+                <tspan x="49" y="610">Could be customized</tspan>
+                <tspan x="49" y="627">but should give a clue about </tspan>
+                <tspan x="49" y="644">what the message is about</tspan>
+            </text>
+            <text id="Icon" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
+                <tspan x="48" y="585">Icon</tspan>
+            </text>
+            <text id="Clear-message,-easil" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" fill="#939393">
+                <tspan x="264" y="719">Clear message, easily </tspan>
+                <tspan x="264" y="736">understandable</tspan>
+            </text>
+            <text id="Message" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
+                <tspan x="263" y="694">Message</tspan>
+            </text>
+            <path d="M611.5,530.503837 L611.5,561.810059" id="Line-4" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <text id="One-«-Close-»-or-«-C" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" sketch:alignment="right" fill="#939393">
+                <tspan x="438.727539" y="610">One « Close » or « Cancel » </tspan>
+                <tspan x="420.387695" y="627">button must always be present. </tspan>
+                <tspan x="421.186035" y="644">An additionnal button for action </tspan>
+                <tspan x="472.060059" y="661">could also be displayed</tspan>
+            </text>
+            <text id="Buttons" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
+                <tspan x="572" y="585">Buttons</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
