@@ -255,18 +255,18 @@
                 </text>
                 <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             </g>
-            <text id="Primary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="234.42" y="137">Primary button</tspan>
+            <text id="Primary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="234" y="137">Primary button</tspan>
             </text>
-            <text id="Small" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="75.6" y="231">Small</tspan>
-                <tspan x="79.28" y="255">28px</tspan>
+            <text id="Small" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="75" y="231">Small</tspan>
+                <tspan x="75" y="255">28px</tspan>
             </text>
-            <text id="Secondary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="541.4" y="137">Secondary button</tspan>
+            <text id="Secondary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="541" y="137">Secondary button</tspan>
             </text>
-            <text id="Inactive-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="827.9" y="137">Inactive button</tspan>
+            <text id="Inactive-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="827" y="137">Inactive button</tspan>
             </text>
             <rect id="Rectangle-4" fill="#015173" sketch:type="MSShapeGroup" x="200.691406" y="336" width="772.253906" height="80"></rect>
             <rect id="Rectangle-3" stroke="#F2F2F2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="200.691406" y="416" width="772.253906" height="80"></rect>
@@ -306,9 +306,9 @@
                     <tspan x="19.96" y="22">annuler</tspan>
                 </text>
             </g>
-            <text id="Medium" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="50.28" y="412">Medium</tspan>
-                <tspan x="79.28" y="436">32px</tspan>
+            <text id="Medium" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="50" y="412">Medium</tspan>
+                <tspan x="50" y="436">32px</tspan>
             </text>
             <rect id="Rectangle-8" fill="#015173" sketch:type="MSShapeGroup" x="200.691406" y="513" width="772.253906" height="80"></rect>
             <rect id="Rectangle-7" stroke="#F2F2F2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="200.691406" y="593" width="772.253906" height="80"></rect>
@@ -348,9 +348,9 @@
                     <tspan x="20.45" y="27">annuler</tspan>
                 </text>
             </g>
-            <text id="Large" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" sketch:alignment="right" fill="#333333">
-                <tspan x="73.82" y="589">Large</tspan>
-                <tspan x="79.28" y="613">40px</tspan>
+            <text id="Large" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="73" y="589">Large</tspan>
+                <tspan x="73" y="613">40px</tspan>
             </text>
         </g>
     </g>

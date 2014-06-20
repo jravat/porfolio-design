@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Components/05-Standards form elements</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="140" y="0" width="267" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="140" y="0" width="267" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-6" x="140" y="0" width="267" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#DFDEDE" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-10" x="0" y="0" width="174" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="174" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-14" x="0" y="0" width="174" height="32" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.82158801   0 0 0 0 0.82158801   0 0 0 0 0.82158801  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-19" x="0" y="0" width="19.9590164" height="20" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="19.9590164" height="20" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="19.9590164" height="20" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Composants" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Components/05-Standards-form-elements" sketch:type="MSArtboardGroup">
+            <g id="retour-+-" sketch:type="MSLayerGroup" transform="translate(250.000000, 343.000000)" font-size="12" fill="#FFFFFF" font-weight="normal">
+                <text id="retour" sketch:type="MSTextLayer" font-family="Arial">
+                    <tspan x="15" y="11">retour</tspan>
+                </text>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome">
+                    <tspan x="0" y="10"></tspan>
+                </text>
+            </g>
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
+                <text id="Standards-form-eleme" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Standards form elements</tspan>
+                </text>
+                <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(30.000000, 110.000000)">
+                <text id="Simple-text-input" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="0" y="20">Simple text input</tspan>
+                </text>
+                <g id="Password-+-Rectangle-447-+-new-password-2" transform="translate(0.000000, 44.000000)">
+                    <g id="Rectangle-447" filter="url(#filter-1)">
+                        <use stroke="#CFCFCF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-2"></use>
+                    </g>
+                    <text id="Input-label" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="0" y="21">Input label</tspan>
+                    </text>
+                </g>
+                <g id="Password-+-Rectangle-447-+-new-password-3" transform="translate(0.000000, 84.000000)">
+                    <g id="Rectangle-447" filter="url(#filter-3)">
+                        <use stroke="#86DAFE" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-4"></use>
+                    </g>
+                    <text id="Focus" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="0" y="21">Focus</tspan>
+                    </text>
+                </g>
+                <g id="Password-+-Rectangle-447-+-new-password-4" transform="translate(0.000000, 124.000000)">
+                    <g id="Rectangle-447" filter="url(#filter-5)">
+                        <use stroke="#D0534E" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-6"></use>
+                    </g>
+                    <text id="Error" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#D0534E">
+                        <tspan x="0" y="21">Error</tspan>
+                    </text>
+                </g>
+                <g id="Click" transform="translate(331.000000, 106.000000)" stroke="#000000" filter="url(#filter-7)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M4.99975564,14 C4.99975564,14 2.7939921,12.3012618 2.01797716,11 C1.24196223,9.69873817 -0.228546798,8.04100945 0.0301248696,7 C0.288796515,5.95899054 1.24196223,5.63091493 2.01797724,6.41167212 C2.79399229,7.19242921 3.31673914,8.88406944 3.83408253,8.62381703 C4.35142594,8.3635647 3.96341818,5.89116721 3.44607506,4.45977918 C2.92873189,3.0283912 2.38935737,1.74506734e-07 3.44607505,0 C4.50279274,-9.28378237e-08 4.50279254,1 4.99975564,2.5 C5.49671876,3.99999999 5.10871115,5.99999931 5.49671874,6 C5.88472632,6.00000059 6.03279134,5.65063082 6.03279144,5 C6.03279148,4.82318548 6.06724813,4.67374541 6.13720714,4.54985954 C6.32467886,4.21787805 6.76709251,4.06940091 7.48457114,4.06940079 C8.46979199,4.06940079 7.98153424,6.00000009 8.47849734,6 C8.97546044,6 8.97546083,6.04100937 8.97546044,5 C8.97546006,3.95899063 9.43628365,4.06940096 10.4302098,4.06940079 C11.424136,4.06940079 10.942933,5.9999999 11.4602759,6 C11.9776189,6.00000009 11.4602759,5.00000008 11.957239,5 C12.4542021,5 12.9511647,5.15772862 12.9511652,7.5 C12.9511658,9.84227138 13.2302174,9.95899044 12.4542021,11 C11.6781868,12.0410096 10.9633128,13 10.9633128,13 C10.9633128,13 10.9633128,14 10.4302098,14 C9.89710685,14.0000001 9.62213993,12.9999999 8.97546044,13 C8.32878095,13.0000001 7.98153424,14 7.98153424,14 L4.99975564,14 Z M11,12 L11,8 L10,8 L10,12 L11,12 Z M8,11 C8,11.2708838 8.23193359,12 8.5,12 C8.77614237,12 9,11.2754211 9,11 L9,9 C9,8.7291162 8.76806641,8 8.5,8 C8.22385763,8 8,8.72457886 8,9 L8,11 Z M6,11 C6,11.2708838 6.23193359,12 6.5,12 C6.77614237,12 7,11.2754211 7,11 L7,9 C7,8.7291162 6.76806641,8 6.5,8 C6.22385763,8 6,8.72457886 6,9 L6,11 Z" id="Pointer"></path>
+                </g>
+            </g>
+            <g id="Group-2" sketch:type="MSLayerGroup" transform="translate(30.000000, 326.000000)">
+                <text id="Select" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="1" y="20">Select</tspan>
+                </text>
+                <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11-+-Select-label" transform="translate(0.000000, 44.000000)">
+                    <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11" transform="translate(148.000000, 0.000000)">
+                        <g id="Rectangle-447" filter="url(#filter-9)">
+                            <use stroke="#CFCFCF" stroke-width="1" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-10"></use>
+                            <use stroke="none" fill="url(#linearGradient-8)" xlink:href="#path-10"></use>
+                        </g>
+                        <g id="Triangle-1-+-Triangle-2" transform="translate(156.000000, 10.000000)" fill="#797979" sketch:type="MSShapeGroup">
+                            <polygon id="Triangle-1" points="4 0 8 6 0 6 "></polygon>
+                            <path d="M0,7 L8,7 L4,13 L0,7 Z" id="Triangle-2"></path>
+                        </g>
+                        <text id="Choose-an-option" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                            <tspan x="10" y="21">Choose an option</tspan>
+                        </text>
+                    </g>
+                    <text id="Select-label" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="0" y="21">Select label</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11-+-Select-label-3" transform="translate(0.000000, 242.000000)">
+                    <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11" transform="translate(148.000000, 0.000000)">
+                        <g id="Rectangle-447" filter="url(#filter-11)">
+                            <use stroke="#D0534E" stroke-width="1" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-12"></use>
+                            <use stroke="none" fill="url(#linearGradient-8)" xlink:href="#path-12"></use>
+                        </g>
+                        <g id="Triangle-1-+-Triangle-2" transform="translate(156.000000, 10.000000)" fill="#797979" sketch:type="MSShapeGroup">
+                            <polygon id="Triangle-1" points="4 0 8 6 0 6 "></polygon>
+                            <path d="M0,7 L8,7 L4,13 L0,7 Z" id="Triangle-2"></path>
+                        </g>
+                        <text id="Choose-an-option" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#D0534E">
+                            <tspan x="10" y="21">Choose an option</tspan>
+                        </text>
+                    </g>
+                    <text id="Select-error" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="0" y="21">Select error</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11-+-Select-label-2" transform="translate(0.000000, 84.000000)">
+                    <g id="Rectangle-447-+-Triangle-1-+-Triangle-2-+-M.-11" transform="translate(148.000000, 0.000000)">
+                        <g id="Rectangle-447" filter="url(#filter-13)">
+                            <use stroke="#86DAFE" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-14"></use>
+                            <use stroke="none" fill="none" xlink:href="#path-14"></use>
+                        </g>
+                        <g id="Triangle-1-+-Triangle-2" transform="translate(156.000000, 10.000000)" fill="#797979" sketch:type="MSShapeGroup">
+                            <polygon id="Triangle-1" points="4 0 8 6 0 6 "></polygon>
+                            <path d="M0,7 L8,7 L4,13 L0,7 Z" id="Triangle-2"></path>
+                        </g>
+                        <text id="Choose-an-option" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                            <tspan x="10" y="21">Choose an option</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-63-+-Option-1-+-Line" transform="translate(148.000000, 30.000000)">
+                        <path d="M28.1854767,8 L214.001356,8 C216.205322,8 218,9.78918923 218,11.996266 L218,114.003734 C218,116.205131 216.209746,118 214.001356,118 L4.99864448,118 C2.79467771,118 1,116.210811 1,114.003734 L1,11.996266 C1,9.79486856 2.79025411,8 4.99864448,8 L12.0606171,8 L20.1230469,-0.0624298117 L28.1854767,8 Z" id="Rectangle-63" stroke="#E2E2E2" fill="#FFFFFF" filter="url(#filter-15)" sketch:type="MSShapeGroup"></path>
+                        <g id="Option-1-+-Line-3" transform="translate(11.000000, 93.000000)" font-size="12" font-family="Arial" fill="#585858" sketch:type="MSTextLayer" font-weight="normal">
+                            <text id="Option-3">
+                                <tspan x="0" y="11">Option 3</tspan>
+                            </text>
+                        </g>
+                        <g id="Option-1-+-Line-2" transform="translate(0.000000, 56.000000)">
+                            <text id="Option-2" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#0272A2">
+                                <tspan x="11" y="11">Option 2</tspan>
+                            </text>
+                            <path d="M0.5,25.5 L217.5,25.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <g id="Rollover" transform="translate(91.000000, 62.000000)" stroke="#FFFFFF" filter="url(#filter-16)" fill="#000000" sketch:type="MSShapeGroup">
+                            <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.14566022,13.3495845 7,13 C6.31232691,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="Default"></path>
+                        </g>
+                        <g id="Option-1-+-Line" transform="translate(0.000000, 19.000000)">
+                            <text id="Option-1" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#585858">
+                                <tspan x="11" y="11">Option 1</tspan>
+                            </text>
+                            <path d="M0.5,25.5 L217.5,25.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                    <text id="Select-focus" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="0" y="21">Select focus</tspan>
+                    </text>
+                </g>
+                <g id="Click" transform="translate(277.000000, 103.000000)" stroke="#000000" filter="url(#filter-17)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M4.99975564,14 C4.99975564,14 2.7939921,12.3012618 2.01797716,11 C1.24196223,9.69873817 -0.228546798,8.04100945 0.0301248696,7 C0.288796515,5.95899054 1.24196223,5.63091493 2.01797724,6.41167212 C2.79399229,7.19242921 3.31673914,8.88406944 3.83408253,8.62381703 C4.35142594,8.3635647 3.96341818,5.89116721 3.44607506,4.45977918 C2.92873189,3.0283912 2.38935737,1.74506734e-07 3.44607505,0 C4.50279274,-9.28378237e-08 4.50279254,1 4.99975564,2.5 C5.49671876,3.99999999 5.10871115,5.99999931 5.49671874,6 C5.88472632,6.00000059 6.03279134,5.65063082 6.03279144,5 C6.03279148,4.82318548 6.06724813,4.67374541 6.13720714,4.54985954 C6.32467886,4.21787805 6.76709251,4.06940091 7.48457114,4.06940079 C8.46979199,4.06940079 7.98153424,6.00000009 8.47849734,6 C8.97546044,6 8.97546083,6.04100937 8.97546044,5 C8.97546006,3.95899063 9.43628365,4.06940096 10.4302098,4.06940079 C11.424136,4.06940079 10.942933,5.9999999 11.4602759,6 C11.9776189,6.00000009 11.4602759,5.00000008 11.957239,5 C12.4542021,5 12.9511647,5.15772862 12.9511652,7.5 C12.9511658,9.84227138 13.2302174,9.95899044 12.4542021,11 C11.6781868,12.0410096 10.9633128,13 10.9633128,13 C10.9633128,13 10.9633128,14 10.4302098,14 C9.89710685,14.0000001 9.62213993,12.9999999 8.97546044,13 C8.32878095,13.0000001 7.98153424,14 7.98153424,14 L4.99975564,14 Z M11,12 L11,8 L10,8 L10,12 L11,12 Z M8,11 C8,11.2708838 8.23193359,12 8.5,12 C8.77614237,12 9,11.2754211 9,11 L9,9 C9,8.7291162 8.76806641,8 8.5,8 C8.22385763,8 8,8.72457886 8,9 L8,11 Z M6,11 C6,11.2708838 6.23193359,12 6.5,12 C6.77614237,12 7,11.2754211 7,11 L7,9 C7,8.7291162 6.76806641,8 6.5,8 C6.22385763,8 6,8.72457886 6,9 L6,11 Z" id="Pointer"></path>
+                </g>
+            </g>
+            <g id="Group-3" sketch:type="MSLayerGroup" transform="translate(556.000000, 109.000000)">
+                <text id="Checkboxes" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="0" y="20">Checkboxes</tspan>
+                </text>
+                <g id="Rectangle-454-+-Central-heating-10" transform="translate(0.000000, 39.000000)">
+                    <g id="Rectangle-454" filter="url(#filter-18)">
+                        <use stroke="#CFCFCF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-19"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-19"></use>
+                    </g>
+                    <text id="Checkbox-label" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#585858">
+                        <tspan x="25" y="14">Checkbox label</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-454-+-Central-heating-11" transform="translate(0.000000, 69.000000)">
+                    <g id="Rectangle-454" filter="url(#filter-20)">
+                        <use stroke="#5DCDFD" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-21"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-21"></use>
+                    </g>
+                    <text id="Checkbox-focus" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#585858">
+                        <tspan x="25" y="14">Checkbox focus</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-454-+-Central-heating-12" transform="translate(0.000000, 99.000000)">
+                    <g id="Rectangle-454" filter="url(#filter-22)">
+                        <use stroke="#CFCFCF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-23"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-23"></use>
+                    </g>
+                    <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="14" font-weight="normal" fill="#585858">
+                        <tspan x="3" y="15"></tspan>
+                    </text>
+                    <text id="Checkbox-selected" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#585858">
+                        <tspan x="25" y="14">Checkbox selected</tspan>
+                    </text>
+                </g>
+                <g id="Click" transform="translate(70.000000, 79.000000)" stroke="#000000" filter="url(#filter-24)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M4.99975564,14 C4.99975564,14 2.7939921,12.3012618 2.01797716,11 C1.24196223,9.69873817 -0.228546798,8.04100945 0.0301248696,7 C0.288796515,5.95899054 1.24196223,5.63091493 2.01797724,6.41167212 C2.79399229,7.19242921 3.31673914,8.88406944 3.83408253,8.62381703 C4.35142594,8.3635647 3.96341818,5.89116721 3.44607506,4.45977918 C2.92873189,3.0283912 2.38935737,1.74506734e-07 3.44607505,0 C4.50279274,-9.28378237e-08 4.50279254,1 4.99975564,2.5 C5.49671876,3.99999999 5.10871115,5.99999931 5.49671874,6 C5.88472632,6.00000059 6.03279134,5.65063082 6.03279144,5 C6.03279148,4.82318548 6.06724813,4.67374541 6.13720714,4.54985954 C6.32467886,4.21787805 6.76709251,4.06940091 7.48457114,4.06940079 C8.46979199,4.06940079 7.98153424,6.00000009 8.47849734,6 C8.97546044,6 8.97546083,6.04100937 8.97546044,5 C8.97546006,3.95899063 9.43628365,4.06940096 10.4302098,4.06940079 C11.424136,4.06940079 10.942933,5.9999999 11.4602759,6 C11.9776189,6.00000009 11.4602759,5.00000008 11.957239,5 C12.4542021,5 12.9511647,5.15772862 12.9511652,7.5 C12.9511658,9.84227138 13.2302174,9.95899044 12.4542021,11 C11.6781868,12.0410096 10.9633128,13 10.9633128,13 C10.9633128,13 10.9633128,14 10.4302098,14 C9.89710685,14.0000001 9.62213993,12.9999999 8.97546044,13 C8.32878095,13.0000001 7.98153424,14 7.98153424,14 L4.99975564,14 Z M11,12 L11,8 L10,8 L10,12 L11,12 Z M8,11 C8,11.2708838 8.23193359,12 8.5,12 C8.77614237,12 9,11.2754211 9,11 L9,9 C9,8.7291162 8.76806641,8 8.5,8 C8.22385763,8 8,8.72457886 8,9 L8,11 Z M6,11 C6,11.2708838 6.23193359,12 6.5,12 C6.77614237,12 7,11.2754211 7,11 L7,9 C7,8.7291162 6.76806641,8 6.5,8 C6.22385763,8 6,8.72457886 6,9 L6,11 Z" id="Pointer"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
