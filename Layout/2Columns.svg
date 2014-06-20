@@ -135,26 +135,29 @@
             </g>
             <g id="Content-Edit-mode" sketch:type="MSLayerGroup" transform="translate(98.000000, 566.000000)">
                 <path d="M3.9937353,-4.63874054e-15 C1.7880562,-4.63874054e-15 0,1.79010294 0,3.99507582 L0,196.004924 C0,198.211344 1.79484998,200 3.9937353,200 L576.006265,200 C578.211944,200 580,198.209897 580,196.004924 L580,3.99507582 C580,1.78865637 578.20515,-4.63874054e-15 576.006265,-4.63874054e-15 L3.9937353,-4.63874054e-15 Z" id="Rectangle-14" stroke="#E2E2E2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M0.5,41.5 L579.802046,41.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <g id="Rectangle-50">
-                    <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                    <use fill="#F87A20" xlink:href="#path-1"></use>
+                <g id="Group">
+                    <g>
+                        <g id="Rectangle-50">
+                            <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                            <use fill="#F87A20" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Rectangle-51">
+                            <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                            <use fill="#F87A20" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="cancel-+-" transform="translate(509.000000, 18.000000)" font-size="12" fill="#FFFFFF" sketch:type="MSTextLayer" font-weight="normal">
+                            <text id="cancel" font-family="Arial">
+                                <tspan x="16" y="12">cancel</tspan>
+                            </text>
+                            <text id="" font-family="FontAwesome">
+                                <tspan x="0" y="10"></tspan>
+                            </text>
+                        </g>
+                        <text id="H3---Content---edit-" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#FFFFFF">
+                            <tspan x="20" y="31">H3 - Content - edit mode</tspan>
+                        </text>
+                    </g>
                 </g>
-                <g id="Rectangle-51">
-                    <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
-                    <use fill="#F87A20" xlink:href="#path-2"></use>
-                </g>
-                <g id="cancel-+-" transform="translate(509.000000, 18.000000)" font-size="12" fill="#FFFFFF" sketch:type="MSTextLayer" font-weight="normal">
-                    <text id="cancel" font-family="Arial">
-                        <tspan x="16" y="12">cancel</tspan>
-                    </text>
-                    <text id="" font-family="FontAwesome">
-                        <tspan x="0" y="10"></tspan>
-                    </text>
-                </g>
-                <text id="H3---Content---edit-" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#FFFFFF">
-                    <tspan x="20" y="31">H3 - Content - edit mode</tspan>
-                </text>
             </g>
             <g id="Content--View-mode" sketch:type="MSLayerGroup" transform="translate(98.000000, 345.000000)">
                 <path d="M3.9937353,1 C1.7880562,1 0,2.79010294 0,4.99507582 L0,197.004924 C0,199.211344 1.79484998,201 3.9937353,201 L576.006265,201 C578.211944,201 580,199.209897 580,197.004924 L580,4.99507582 C580,2.78865637 578.20515,1 576.006265,1 L3.9937353,1 Z" id="Rectangle-14" stroke="#E2E2E2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
@@ -163,7 +166,7 @@
                     <tspan x="20" y="27">H3 - Content - view mode</tspan>
                 </text>
                 <path d="M502.5,0.5 L502.5,40.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <g id="edit-+-" transform="translate(524.000000, 13.000000)" font-size="12" fill="#939393" sketch:type="MSTextLayer" font-weight="normal">
+                <g id="edit-+-" transform="translate(524.000000, 13.000000)" font-size="12" fill="#FF8328" sketch:type="MSTextLayer" font-weight="normal">
                     <text id="edit" font-family="Arial">
                         <tspan x="16" y="12">edit</tspan>
                     </text>
