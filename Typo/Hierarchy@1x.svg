@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Typo/Hierarchy@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Typographie" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Typo/Hierarchy" sketch:type="MSArtboardGroup">
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
+                <text id="Hierarchy-and-text" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Hierarchy and text</tspan>
+                </text>
+                <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="H1---Main-heading-in-+-For-page-title-only,-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 178.000000)">
+                <text id="H1---Main-heading-in" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
+                    <tspan x="0" y="26">H1 - Main heading in Lato Light, 26px</tspan>
+                </text>
+                <text id="For-page-title-only,-2" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                    <tspan x="0" y="51">For page title only, should be used only once in a page</tspan>
+                </text>
+            </g>
+            <path d="M513.5,134.5 L513.5,724.810059" id="Line-2" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <g id="H2---Main-heading-in-+-For-section-titles" sketch:type="MSLayerGroup" transform="translate(70.000000, 267.000000)">
+                <text id="H2---Section-heading" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
+                    <tspan x="0" y="22">H2 - Section heading in Lato Light, 22px</tspan>
+                </text>
+                <text id="For-section-titles" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                    <tspan x="0" y="46">For section titles</tspan>
+                </text>
+            </g>
+            <g id="H2---Main-heading-in-+-For-section-titles-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 356.000000)">
+                <text id="H3---Block-heading-i" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
+                    <tspan x="0" y="16">H3 - Block heading in Lato Light, 16px</tspan>
+                </text>
+                <text id="Mainly-use-for-sideb" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" fill="#585858">
+                    <tspan x="0" y="39">Mainly use for sidebar blocks titles, but could also be </tspan>
+                    <tspan x="0" y="55">used in body copy if needed</tspan>
+                </text>
+            </g>
+            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe" sketch:type="MSLayerGroup" transform="translate(70.000000, 444.000000)" font-family="Arial" fill="#585858" font-weight="normal">
+                <text id="H4---Title-within-co" sketch:type="MSTextLayer" font-size="15">
+                    <tspan x="0" y="14">H4 - Title within content in Arial, 14px</tspan>
+                </text>
+                <text id="Mainly-use-in-conten" sketch:type="MSTextLayer" font-size="14">
+                    <tspan x="0" y="41">Mainly use in content for title and hierarchy</tspan>
+                </text>
+            </g>
+            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 526.000000)" font-family="Arial" fill="#585858" font-weight="normal">
+                <text id="Body-copy---Arial,-1" sketch:type="MSTextLayer" font-size="15">
+                    <tspan x="0" y="14">Body copy - Arial, 12px</tspan>
+                </text>
+                <text id="Be-careful-that-depe" sketch:type="MSTextLayer" font-size="12">
+                    <tspan x="0" y="39">Be careful that depending on the width allowed to the copy the </tspan>
+                    <tspan x="0" y="53">line-height may change to increase readbility. In extreme case the </tspan>
+                    <tspan x="0" y="67">font-size may also be changed for the same purpose.</tspan>
+                </text>
+            </g>
+            <text id="Text-hierarchy" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
+                <tspan x="70" y="154">Text hierarchy</tspan>
+            </text>
+            <text id="Text-decoration" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
+                <tspan x="582" y="154">Text decoration</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
