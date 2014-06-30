@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Colors/Main-colors</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Couleurs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Colors/Main-colors" sketch:type="MSArtboardGroup">
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
+                <text id="Main-Colors" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Main Colors</tspan>
+                </text>
+                <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <rect id="Rectangle-1" fill="#015173" sketch:type="MSShapeGroup" x="30" y="124" width="120" height="120"></rect>
+            <rect id="Rectangle-7" fill="#35C1FD" sketch:type="MSShapeGroup" x="30" y="474" width="50" height="50"></rect>
+            <rect id="Rectangle-6" fill="#02AAF2" sketch:type="MSShapeGroup" x="30" y="404" width="50" height="50"></rect>
+            <rect id="Rectangle-4" fill="#0272A2" sketch:type="MSShapeGroup" x="30" y="264" width="50" height="50"></rect>
+            <text id="Couleur-principale-d" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" fill="#797979">
+                <tspan x="180" y="167">Couleur principale du header</tspan>
+                <tspan x="180" y="185">Ce n’est pas la même que celle du logo.</tspan>
+            </text>
+            <text id="#015173" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="180" y="144">#015173</tspan>
+            </text>
+            <text id="#0272A2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="96" y="296">#0272A2</tspan>
+            </text>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(264.000000, 264.000000)">
+                <rect id="Rectangle-11" fill="#D7F3FF" sketch:type="MSShapeGroup" x="1" y="210" width="50" height="50"></rect>
+                <rect id="Rectangle-10" fill="#AEE6FE" sketch:type="MSShapeGroup" x="0" y="140" width="50" height="50"></rect>
+                <rect id="Rectangle-9" fill="#86DAFE" sketch:type="MSShapeGroup" x="1" y="70" width="50" height="50"></rect>
+                <rect id="Rectangle-8" fill="#5DCDFD" sketch:type="MSShapeGroup" x="1" y="0" width="50" height="50"></rect>
+                <text id="#0272A2-7" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="67" y="169">#0272A2</tspan>
+                </text>
+                <text id="#D7F3FF" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="67" y="241">#D7F3FF</tspan>
+                </text>
+                <text id="#86DAFE" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="67" y="100">#86DAFE</tspan>
+                </text>
+                <text id="#5DCDFD" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="67" y="31">#5DCDFD</tspan>
+                </text>
+            </g>
+            <text id="#35C1FD" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="96" y="506">#35C1FD</tspan>
+            </text>
+            <text id="#02AAF2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="96" y="435">#02AAF2</tspan>
+            </text>
+            <g id="Rectangle-5-+-#028ECA" sketch:type="MSLayerGroup" transform="translate(30.000000, 334.000000)">
+                <rect id="Rectangle-5" fill="#028ECA" sketch:type="MSShapeGroup" x="0" y="0" width="50" height="50"></rect>
+                <text id="#028ECA" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="66" y="31">#028ECA</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-15" fill="#FFDAC2" sketch:type="MSShapeGroup" x="566" y="474" width="50" height="50"></rect>
+            <rect id="Rectangle-14" fill="#FEC29A" sketch:type="MSShapeGroup" x="566" y="404" width="50" height="50"></rect>
+            <rect id="Rectangle-13" fill="#FEA971" sketch:type="MSShapeGroup" x="566" y="334" width="50" height="50"></rect>
+            <rect id="Rectangle-12" fill="#FE8534" sketch:type="MSShapeGroup" x="566" y="264" width="50" height="50"></rect>
+            <rect id="Rectangle-2" fill="#F76401" sketch:type="MSShapeGroup" x="566" y="124" width="110" height="110"></rect>
+            <text id="Couleur-d’emphase-de" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" fill="#797979">
+                <tspan x="706" y="176">Couleur d’emphase de l’extranet </tspan>
+                <tspan x="706" y="194">(utilisée sur les boutons notamment)</tspan>
+            </text>
+            <text id="#F76401" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="706" y="144">#F76401</tspan>
+            </text>
+            <text id="#FE8534" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="636" y="296">#FE8534</tspan>
+            </text>
+            <text id="#FEA971" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="636" y="366">#FEA971</tspan>
+            </text>
+            <text id="#FEC29A" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="632" y="434">#FEC29A</tspan>
+            </text>
+            <text id="#FFDAC2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="632" y="504">#FFDAC2</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#B1F0FF" sketch:type="MSShapeGroup" x="29" y="600" width="110" height="110"></rect>
+            <text id="Couleur-du-mode-Siri" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" fill="#797979">
+                <tspan x="169" y="650">Couleur du mode Siriona</tspan>
+            </text>
+            <text id="#B1F0FF" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="169" y="618">#B1F0FF</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -7,8 +7,8 @@
     <g id="Couleurs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Colors/Additionnal-colors" sketch:type="MSArtboardGroup">
             <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
-                <text id="Couleurs-additionnel" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
-                    <tspan x="30" y="30">Couleurs additionnelles</tspan>
+                <text id="Aditionnal-Colors" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Aditionnal Colors</tspan>
                 </text>
                 <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             </g>
