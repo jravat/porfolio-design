@@ -75,6 +75,299 @@
                     <tspan x="0" y="10"></tspan>
                 </text>
             </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(328.000000, 414.000000)">
+                <g id="Rectangle-128-+-Rectangle-129-+-Comp/Grip" transform="translate(0.000000, 26.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-128" fill="#F3F3F3" x="0" y="11" width="540" height="15" rx="40"></rect>
+                    <rect id="Rectangle-129" fill="#54578F" x="0" y="11" width="219" height="15" rx="40"></rect>
+                    <g id="Comp/Grip" transform="translate(211.000000, 0.000000)">
+                        <rect id="Rectangle-23" fill="#FF8328" transform="translate(8.000000, 19.000000) scale(-1, 1) translate(-8.000000, -19.000000) " x="4.54747351e-13" y="0" width="16" height="38" rx="22"></rect>
+                        <g id="Group" transform="translate(5.000000, 14.000000)" fill="#B34D02">
+                            <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <text id="00:00" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="0" y="74">00:00</tspan>
+                </text>
+                <text id="12:00" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="254" y="74">12:00</tspan>
+                </text>
+                <text id="06:00" opacity="0.8" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="127" y="74">06:00</tspan>
+                </text>
+                <text id="18:00" opacity="0.8" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="381" y="74">18:00</tspan>
+                </text>
+                <text id="23:59" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="509" y="74">23:59</tspan>
+                </text>
+                <text id="Check-out-time" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" fill="#585858">
+                    <tspan x="0" y="14">Check-out time</tspan>
+                </text>
+                <text id="before" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" sketch:alignment="right" fill="#939393">
+                    <tspan x="116.974609" y="14">before</tspan>
+                </text>
+                <text id="11:00" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" sketch:alignment="right" fill="#54578F">
+                    <tspan x="156.004883" y="14">11:00</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-67-+-Rectangle-68-+-Group-3" sketch:type="MSLayerGroup" transform="translate(328.000000, 352.000000)">
+                <rect id="Rectangle-67" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="0" width="56" height="28" rx="40"></rect>
+                <rect id="Rectangle-68" fill="#FF8328" sketch:type="MSShapeGroup" x="0" y="0" width="28" height="28" rx="40"></rect>
+                <g id="Group-3" transform="translate(11.000000, 9.000000)" fill="#B34D02" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                    <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                    <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                    <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                    <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                    <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                </g>
+            </g>
+            <g id="Rectangle-5-+-valider-3" sketch:type="MSLayerGroup" transform="translate(386.000000, 663.000000)">
+                <rect id="Rectangle-5" stroke="#FEA971" sketch:type="MSShapeGroup" x="0" y="0" width="62" height="32" rx="4"></rect>
+                <text id="no" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" sketch:alignment="middle" fill="#F76401">
+                    <tspan x="22.344" y="21">no</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-5-+-valider-2" sketch:type="MSLayerGroup" transform="translate(325.000000, 663.000000)">
+                <rect id="Rectangle-5" stroke="#F76401" fill="#F76401" sketch:type="MSShapeGroup" x="0" y="0" width="62" height="32" rx="4"></rect>
+                <text id="yes" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="20.796" y="21">yes</tspan>
+                </text>
+            </g>
+            <g id="Group-7" sketch:type="MSLayerGroup" transform="translate(328.000000, 539.000000)">
+                <g id="Rectangle-128-+-Rectangle-129-+-Comp/Grip" transform="translate(0.000000, 25.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-128" fill="#F3F3F3" x="0" y="12" width="540" height="15" rx="40"></rect>
+                    <rect id="Rectangle-129" fill="#54578F" x="0" y="12" width="539" height="15" rx="40"></rect>
+                    <g id="Comp/Grip">
+                        <rect id="Rectangle-23" fill="#FF8328" transform="translate(8.000000, 19.000000) scale(-1, 1) translate(-8.000000, -19.000000) " x="4.54747351e-13" y="0" width="16" height="38" rx="22"></rect>
+                        <g id="Group" transform="translate(5.000000, 14.000000)" fill="#B34D02">
+                            <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Comp/Grip-2" transform="translate(523.000000, 0.000000)">
+                        <rect id="Rectangle-23" fill="#FF8328" transform="translate(8.000000, 19.000000) scale(-1, 1) translate(-8.000000, -19.000000) " x="4.54747351e-13" y="0" width="16" height="38" rx="22"></rect>
+                        <g id="Group" transform="translate(5.000000, 14.000000)" fill="#B34D02">
+                            <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <text id="00:00" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="0" y="74">00:00</tspan>
+                </text>
+                <text id="12:00" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="254" y="74">12:00</tspan>
+                </text>
+                <text id="06:00" opacity="0.8" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="127" y="74">06:00</tspan>
+                </text>
+                <text id="18:00" opacity="0.8" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="381" y="74">18:00</tspan>
+                </text>
+                <text id="23:59" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="509" y="74">23:59</tspan>
+                </text>
+                <text id="Lobby’s-opening-hour" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" fill="#585858">
+                    <tspan x="0" y="14">Lobby’s opening hours</tspan>
+                </text>
+                <text id="around-the-clock" sketch:type="MSTextLayer" font-family="Arial" font-size="14" font-weight="normal" sketch:alignment="right" fill="#54578F">
+                    <tspan x="177.269531" y="14">around the clock</tspan>
+                </text>
+            </g>
+            <g id="Calendar" sketch:type="MSLayerGroup" transform="translate(32.000000, 352.000000)">
+                <g id="Blocks" transform="translate(0.356506, 61.795848)" stroke="#FFFFFF" stroke-width="0.5" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38" fill="#EBEBEB" x="57.0409982" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-39" fill="#EBEBEB" x="85.5614973" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-40" fill="#EBEBEB" x="114.081996" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-41" fill="#EBEBEB" x="142.602496" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-42" fill="#EBEBEB" x="171.122995" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-43" fill="#EBEBEB" x="28.5204991" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-45" fill="#F2F2F2" x="-3.12638804e-13" y="0" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-44" fill="#EBEBEB" x="-3.12638804e-13" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-46" fill="#EBEBEB" x="57.0409982" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-47" fill="#EBEBEB" x="85.5614973" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-48" fill="#EBEBEB" x="114.081996" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-49" fill="#EBEBEB" x="142.602496" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-50" fill="#EBEBEB" x="171.122995" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-51" fill="#EBEBEB" x="28.5204991" y="28.5121107" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-52" fill="#EBEBEB" x="-3.12638804e-13" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-54" fill="#EBEBEB" x="57.0409982" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-55" fill="#FE8534" x="85.5614973" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-56" fill="#EBEBEB" x="114.081996" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-57" fill="#EBEBEB" x="142.602496" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-58" fill="#EBEBEB" x="171.122995" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-59" fill="#EBEBEB" x="28.5204991" y="56.6678201" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-60" fill="#EBEBEB" x="-3.12638804e-13" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-62" fill="#EBEBEB" x="57.0409982" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-63" fill="#EBEBEB" x="85.5614973" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-64" fill="#EBEBEB" x="114.081996" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-65" fill="#EBEBEB" x="142.602496" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-66" fill="#EBEBEB" x="171.122995" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-67" fill="#EBEBEB" x="28.5204991" y="85.1799308" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-68" fill="#EBEBEB" x="-3.12638804e-13" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-70" fill="#EBEBEB" x="57.0409982" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-71" fill="#EBEBEB" x="85.5614973" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-72" fill="#F2F2F2" x="114.081996" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-73" fill="#F2F2F2" x="142.602496" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-74" fill="#F2F2F2" x="171.122995" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                    <rect id="Rectangle-75" fill="#EBEBEB" x="28.5204991" y="113.692042" width="28.5204991" height="28.5121107"></rect>
+                </g>
+                <g id="Numbers" transform="translate(3.208556, 68.211073)" font-weight="normal" font-family="Arial" line-spacing="13.1672598" sketch:type="MSTextLayer" font-size="8.66666667" sketch:alignment="middle">
+                    <text id="1" fill="#797979">
+                        <tspan x="37.3404521" y="8">1</tspan>
+                    </text>
+                    <text id="30" fill="#C7C7C7">
+                        <tspan x="6.40995954" y="8">30</tspan>
+                    </text>
+                    <text id="2" fill="#797979">
+                        <tspan x="65.8609513" y="8">2</tspan>
+                    </text>
+                    <text id="3" fill="#797979">
+                        <tspan x="94.3814504" y="8">3</tspan>
+                    </text>
+                    <text id="4" fill="#797979">
+                        <tspan x="122.901949" y="8">4</tspan>
+                    </text>
+                    <text id="5" fill="#797979">
+                        <tspan x="151.422449" y="8">5</tspan>
+                    </text>
+                    <text id="6" fill="#797979">
+                        <tspan x="179.942948" y="8">6</tspan>
+                    </text>
+                    <text id="7" fill="#797979">
+                        <tspan x="8.81995303" y="36.5121107">7</tspan>
+                    </text>
+                    <text id="8" fill="#797979">
+                        <tspan x="37.3404521" y="36.5121107">8</tspan>
+                    </text>
+                    <text id="9" fill="#797979">
+                        <tspan x="65.8609513" y="36.5121107">9</tspan>
+                    </text>
+                    <text id="10" fill="#797979">
+                        <tspan x="91.9714569" y="36.5121107">10</tspan>
+                    </text>
+                    <text id="11" fill="#797979">
+                        <tspan x="120.491956" y="36.5121107">11</tspan>
+                    </text>
+                    <text id="12" fill="#797979">
+                        <tspan x="149.012455" y="36.5121107">12</tspan>
+                    </text>
+                    <text id="13" fill="#797979">
+                        <tspan x="177.532954" y="36.5121107">13</tspan>
+                    </text>
+                    <text id="14" fill="#797979">
+                        <tspan x="6.40995954" y="64.6678201">14</tspan>
+                    </text>
+                    <text id="15" fill="#797979">
+                        <tspan x="34.9304587" y="64.6678201">15</tspan>
+                    </text>
+                    <text id="16" fill="#797979">
+                        <tspan x="63.4509578" y="64.6678201">16</tspan>
+                    </text>
+                    <text id="17" fill="#FFFFFF">
+                        <tspan x="91.9714569" y="64.6678201">17</tspan>
+                    </text>
+                    <text id="18" fill="#797979">
+                        <tspan x="120.491956" y="64.6678201">18</tspan>
+                    </text>
+                    <text id="19" fill="#797979">
+                        <tspan x="149.012455" y="64.6678201">19</tspan>
+                    </text>
+                    <text id="20" fill="#797979">
+                        <tspan x="177.532954" y="64.6678201">20</tspan>
+                    </text>
+                    <text id="21" fill="#797979">
+                        <tspan x="6.40995954" y="93.1799308">21</tspan>
+                    </text>
+                    <text id="22" fill="#797979">
+                        <tspan x="34.9304587" y="93.1799308">22</tspan>
+                    </text>
+                    <text id="23" fill="#797979">
+                        <tspan x="63.4509578" y="93.1799308">23</tspan>
+                    </text>
+                    <text id="24" fill="#797979">
+                        <tspan x="91.9714569" y="93.1799308">24</tspan>
+                    </text>
+                    <text id="25" fill="#797979">
+                        <tspan x="120.491956" y="93.1799308">25</tspan>
+                    </text>
+                    <text id="26" fill="#797979">
+                        <tspan x="149.012455" y="93.1799308">26</tspan>
+                    </text>
+                    <text id="27" fill="#797979">
+                        <tspan x="177.532954" y="93.1799308">27</tspan>
+                    </text>
+                    <text id="28" fill="#797979">
+                        <tspan x="6.40995954" y="121.692042">28</tspan>
+                    </text>
+                    <text id="29" fill="#797979">
+                        <tspan x="34.9304587" y="121.692042">29</tspan>
+                    </text>
+                    <text id="30" fill="#797979">
+                        <tspan x="63.4509578" y="121.692042">30</tspan>
+                    </text>
+                    <text id="31" fill="#797979">
+                        <tspan x="91.9714569" y="121.692042">31</tspan>
+                    </text>
+                    <text id="1" fill="#CCCCCC">
+                        <tspan x="122.901949" y="121.692042">1</tspan>
+                    </text>
+                    <text id="2" fill="#CCCCCC">
+                        <tspan x="151.422449" y="121.692042">2</tspan>
+                    </text>
+                    <text id="3" fill="#CCCCCC">
+                        <tspan x="179.942948" y="121.692042">3</tspan>
+                    </text>
+                </g>
+                <g id="Days" transform="translate(3.208556, 37.560554)" font-weight="normal" font-family="Arial" line-spacing="13.1672598" sketch:type="MSTextLayer" font-size="9" sketch:alignment="middle">
+                    <text id="MON" fill="#939393">
+                        <tspan x="29.2519105" y="8">MON</tspan>
+                    </text>
+                    <text id="SUN" fill="#C7C7C7">
+                        <tspan x="1.72896996" y="8">SUN</tspan>
+                    </text>
+                    <text id="TUE" fill="#939393">
+                        <tspan x="59.2709447" y="8">TUE</tspan>
+                    </text>
+                    <text id="WED" fill="#939393">
+                        <tspan x="86.2929087" y="8">WED</tspan>
+                    </text>
+                    <text id="THU" fill="#939393">
+                        <tspan x="116.063652" y="8">THU</tspan>
+                    </text>
+                    <text id="FRI" fill="#939393">
+                        <tspan x="146.583663" y="8">FRI</tspan>
+                    </text>
+                    <text id="SAT" fill="#939393">
+                        <tspan x="173.601232" y="8">SAT</tspan>
+                    </text>
+                </g>
+                <text id="JULY-2014" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" sketch:alignment="middle" fill="#585858">
+                    <tspan x="63.2483519" y="13.5878979">JULY 2014</tspan>
+                </text>
+                <g id="Prev" transform="translate(8.000000, 3.712803)" stroke="#BEBEBE" stroke-width="1.06761566" sketch:type="MSShapeGroup">
+                    <path d="M-3.07016092,6.79334717 L2.01783656,2.45477438 L7.03561073,6.70008261" id="Path-38" transform="translate(1.948097, 4.656905) rotate(-90.000000) translate(-1.948097, -4.656905) "></path>
+                </g>
+                <g id="Next" transform="translate(187.860963, 8.314879) rotate(-180.000000) translate(-187.860963, -8.314879) translate(185.860963, 3.314879)" stroke="#BEBEBE" stroke-width="1.06761566" sketch:type="MSShapeGroup">
+                    <path d="M-3.07016092,6.79334717 L2.01783656,2.45477438 L7.03561073,6.70008261" id="Path-38" transform="translate(1.948097, 4.656905) rotate(-90.000000) translate(-1.948097, -4.656905) "></path>
+                </g>
+                <path d="M0.534759358,27.7595156 L198.040499,27.7595156" id="Line" stroke="#F9F9F9" stroke-width="1.06761566" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
         </g>
     </g>
 </svg>
