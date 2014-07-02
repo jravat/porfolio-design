@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="870px" viewBox="0 0 1024 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
-    <title>Layout/2Columns</title>
+    <title>Layout/01-2Columns</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="580" height="44" rx="4"></rect>
         <rect id="path-2" x="0" y="0" width="580" height="5" rx="4"></rect>
     </defs>
     <g id="Page-Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Layout/2Columns" sketch:type="MSArtboardGroup">
+        <g id="Layout/01-2Columns" sketch:type="MSArtboardGroup">
             <g id="header*" sketch:type="MSLayerGroup" transform="translate(0.000000, 79.000000)">
                 <rect id="Fond-Header" fill="#015173" sketch:type="MSShapeGroup" x="0" y="0" width="1024" height="125"></rect>
                 <g id="Group" transform="translate(20.000000, 10.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
@@ -173,148 +173,6 @@
                     <text id="" font-family="FontAwesome">
                         <tspan x="0" y="10"></tspan>
                     </text>
-                </g>
-            </g>
-            <g id="Guides" sketch:type="MSLayerGroup" transform="translate(56.000000, 207.000000)">
-                <g id="$GUIDE1402560911774" transform="translate(42.000000, 551.000000)">
-                    <g id="ruler" transform="translate(0.000000, 9.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="0" y="3" width="580" height="1"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="1" height="7"></rect>
-                        <rect id="end-arrow" x="579" y="0" width="1" height="7"></rect>
-                    </g>
-                    <g id="label-580" transform="translate(268.000000, 0.000000)">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(21.000000, 14.000000) rotate(-45.000000) translate(-21.000000, -14.000000) " x="17" y="10" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="43" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">580px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402560932458" transform="translate(642.000000, 121.000000)">
-                    <g id="ruler" transform="translate(0.000000, 9.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="0" y="3" width="230" height="1"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="1" height="7"></rect>
-                        <rect id="end-arrow" x="229" y="0" width="1" height="7"></rect>
-                    </g>
-                    <g id="label-230" transform="translate(93.000000, 0.000000)">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(21.000000, 14.000000) rotate(-45.000000) translate(-21.000000, -14.000000) " x="17" y="10" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="43" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">230px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402560948775" transform="translate(614.000000, 207.000000)">
-                    <g id="ruler" transform="translate(8.000000, 28.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="0" y="3" width="20" height="1"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="1" height="7"></rect>
-                        <rect id="end-arrow" x="19" y="0" width="1" height="7"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(18.000000, 24.000000) rotate(-45.000000) translate(-18.000000, -24.000000) " x="14" y="20" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402560960187" transform="translate(288.000000, 337.000000)">
-                    <g id="ruler" transform="translate(40.000000, 2.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="20"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="19" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561000205" transform="translate(713.000000, 336.000000)">
-                    <g id="ruler" transform="translate(40.000000, 2.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="20"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="19" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561018903">
-                    <g id="ruler" transform="translate(40.000000, 2.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="20"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="19" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561038115" transform="translate(1.000000, 52.000000)">
-                    <g id="ruler" transform="translate(40.000000, 2.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="20"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="19" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561124807" transform="translate(1.000000, 71.000000)">
-                    <g id="ruler" transform="translate(40.000000, 5.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="15"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="14" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-15">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">15px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561138143" transform="translate(288.000000, 116.000000)">
-                    <g id="ruler" transform="translate(40.000000, 2.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="3" y="0" width="1" height="20"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="7" height="1"></rect>
-                        <rect id="end-arrow" x="0" y="19" width="7" height="1"></rect>
-                    </g>
-                    <g id="label-20">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(36.000000, 12.000000) rotate(-45.000000) translate(-36.000000, -12.000000) " x="32" y="8" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">20px</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="$GUIDE1402561155256" transform="translate(745.000000, 6.000000)">
-                    <g id="ruler" transform="translate(13.000000, 28.000000)" fill="#FF0000" sketch:type="MSShapeGroup">
-                        <rect id="line" x="0" y="3" width="10" height="1"></rect>
-                        <rect id="start-arrow" x="0" y="0" width="1" height="7"></rect>
-                        <rect id="end-arrow" x="9" y="0" width="1" height="7"></rect>
-                    </g>
-                    <g id="label-10">
-                        <rect id="gap" fill="#FF0000" sketch:type="MSShapeGroup" transform="translate(18.000000, 24.000000) rotate(-45.000000) translate(-18.000000, -24.000000) " x="14" y="20" width="8" height="8"></rect>
-                        <rect id="label" fill="#FF0000" sketch:type="MSShapeGroup" x="0" y="0" width="37" height="25"></rect>
-                        <text id="text" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                            <tspan x="5" y="16" fill="#000000">10px</tspan>
-                        </text>
-                    </g>
                 </g>
             </g>
             <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">

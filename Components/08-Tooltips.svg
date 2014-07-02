@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Components/08-Tooltips</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.325201956   0 0 0 0 0.325201956   0 0 0 0 0.325201956  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Composants" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Components/08-Tooltips" sketch:type="MSArtboardGroup">
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
+                <text id="Tooltips" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
+                    <tspan x="30" y="30">Tooltips</tspan>
+                </text>
+                <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <text id="Tooltips" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                <tspan x="30" y="130">Tooltips</tspan>
+            </text>
+            <text id="To-explain-one-parti" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" fill="#585858">
+                <tspan x="30" y="154">To explain one particular concept or element</tspan>
+            </text>
+            <g id="popoRoomsRatesDetails" sketch:type="MSLayerGroup" transform="translate(30.000000, 185.000000)">
+                <g id="popoverContent" filter="url(#filter-1)" fill="#1C1C1C" sketch:type="MSShapeGroup">
+                    <path d="M20.3585442,126.136719 L4.00277957,126.136719 C1.78942383,126.136719 0,124.345435 0,122.135775 L0,4.00094358 C0,1.78310831 1.79210546,3.55271368e-15 4.00277957,3.55271368e-15 L226.613627,3.55271368e-15 C228.826982,3.55271368e-15 230.616406,1.79128346 230.616406,4.00094358 L230.616406,122.135775 C230.616406,124.35361 228.824301,126.136719 226.613627,126.136719 L34.6414558,126.136719 L27.5,133.278175 L20.3585442,126.136719 Z" id="top"></path>
+                </g>
+                <text id="Please-contact-EXPED" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="20" y="31">Please contact EXPEDIA to </tspan>
+                    <tspan x="20" y="45">resolve this issue :</tspan>
+                    <tspan x="128.046875" y="45" font-weight="normal"></tspan>
+                    <tspan x="20" y="64" font-weight="normal">The minimum stay for this rate </tspan>
+                    <tspan x="20" y="78" font-weight="normal">does not comply with your contract.</tspan>
+                </text>
+                <text id="Open-Expedia’s-extra" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" text-decoration="underline" fill="#FFFFFF">
+                    <tspan x="20" y="103">Open Expedia’s extranet</tspan>
+                </text>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#939393">
+                    <tspan x="157" y="102"></tspan>
+                </text>
+                <g id="Rollover-2" transform="translate(27.000000, 140.000000)" stroke="#FFFFFF" filter="url(#filter-2)" fill="#000000" sketch:type="MSShapeGroup">
+                    <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.14566022,13.3495845 7,13 C6.31232691,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="Default"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

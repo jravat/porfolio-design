@@ -327,6 +327,60 @@
                     <path d="M4.99975564,14 C4.99975564,14 2.7939921,12.3012618 2.01797716,11 C1.24196223,9.69873817 -0.228546798,8.04100945 0.0301248696,7 C0.288796515,5.95899054 1.24196223,5.63091493 2.01797724,6.41167212 C2.79399229,7.19242921 3.31673914,8.88406944 3.83408253,8.62381703 C4.35142594,8.3635647 3.96341818,5.89116721 3.44607506,4.45977918 C2.92873189,3.0283912 2.38935737,1.74506734e-07 3.44607505,0 C4.50279274,-9.28378237e-08 4.50279254,1 4.99975564,2.5 C5.49671876,3.99999999 5.10871115,5.99999931 5.49671874,6 C5.88472632,6.00000059 6.03279134,5.65063082 6.03279144,5 C6.03279148,4.82318548 6.06724813,4.67374541 6.13720714,4.54985954 C6.32467886,4.21787805 6.76709251,4.06940091 7.48457114,4.06940079 C8.46979199,4.06940079 7.98153424,6.00000009 8.47849734,6 C8.97546044,6 8.97546083,6.04100937 8.97546044,5 C8.97546006,3.95899063 9.43628365,4.06940096 10.4302098,4.06940079 C11.424136,4.06940079 10.942933,5.9999999 11.4602759,6 C11.9776189,6.00000009 11.4602759,5.00000008 11.957239,5 C12.4542021,5 12.9511647,5.15772862 12.9511652,7.5 C12.9511658,9.84227138 13.2302174,9.95899044 12.4542021,11 C11.6781868,12.0410096 10.9633128,13 10.9633128,13 C10.9633128,13 10.9633128,14 10.4302098,14 C9.89710685,14.0000001 9.62213993,12.9999999 8.97546044,13 C8.32878095,13.0000001 7.98153424,14 7.98153424,14 L4.99975564,14 Z M11,12 L11,8 L10,8 L10,12 L11,12 Z M8,11 C8,11.2708838 8.23193359,12 8.5,12 C8.77614237,12 9,11.2754211 9,11 L9,9 C9,8.7291162 8.76806641,8 8.5,8 C8.22385763,8 8,8.72457886 8,9 L8,11 Z M6,11 C6,11.2708838 6.23193359,12 6.5,12 C6.77614237,12 7,11.2754211 7,11 L7,9 C7,8.7291162 6.76806641,8 6.5,8 C6.22385763,8 6,8.72457886 6,9 L6,11 Z" id="Pointer"></path>
                 </g>
             </g>
+            <g id="Segmented-controls-+-Rectangle-5-+-valider-3-+-Rectangle-5-+-valider-2" sketch:type="MSLayerGroup" transform="translate(556.000000, 326.000000)">
+                <text id="Segmented-controls" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="0" y="20">Segmented controls</tspan>
+                </text>
+                <g id="Rectangle-5-+-valider-3" transform="translate(62.000000, 43.000000)">
+                    <rect id="Rectangle-5" stroke="#FEA971" sketch:type="MSShapeGroup" x="0" y="0" width="62" height="32" rx="4"></rect>
+                    <text id="no" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" sketch:alignment="middle" fill="#F76401">
+                        <tspan x="22.344" y="21">no</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-5-+-valider-2" transform="translate(1.000000, 43.000000)">
+                    <rect id="Rectangle-5" stroke="#F76401" fill="#F76401" sketch:type="MSShapeGroup" x="0" y="0" width="62" height="32" rx="4"></rect>
+                    <text id="yes" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" sketch:alignment="right" fill="#FFFFFF">
+                        <tspan x="20.796" y="21">yes</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(556.000000, 453.000000)">
+                <text id="On/Off-Switch" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+                    <tspan x="0" y="20">On/Off Switch</tspan>
+                </text>
+                <text id="Off" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" fill="#585858">
+                    <tspan x="1" y="64">Off</tspan>
+                </text>
+                <text id="On" sketch:type="MSTextLayer" font-family="Arial" font-size="15" font-weight="normal" fill="#585858">
+                    <tspan x="1" y="111">On</tspan>
+                </text>
+                <g id="Rectangle-67-+-Rectangle-68-+-Group-3" transform="translate(67.000000, 44.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-67" fill="#D8D8D8" x="0" y="0" width="56" height="28" rx="40"></rect>
+                    <rect id="Rectangle-68" fill="#FF8328" x="0" y="0" width="28" height="28" rx="40"></rect>
+                    <g id="Group-3" transform="translate(11.000000, 9.000000)" fill="#B34D02">
+                        <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                        <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                        <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                        <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                        <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                        <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                    </g>
+                </g>
+                <g id="Rectangle-67-+-Rectangle-68-+-Group-4" transform="translate(67.000000, 92.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-67" fill="#028ECA" x="0" y="0" width="56" height="28" rx="40"></rect>
+                    <g id="Rectangle-68-+-Group-3" transform="translate(28.000000, 0.000000)">
+                        <rect id="Rectangle-68" fill="#FF8328" x="0" y="0" width="28" height="28" rx="40"></rect>
+                        <g id="Group-3" transform="translate(11.000000, 9.000000)" fill="#B34D02">
+                            <ellipse id="Oval-11" cx="4.875" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-10" cx="4.875" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-9" cx="4.875" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-8" cx="1.125" cy="1.15384615" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-7" cx="1.125" cy="5" rx="1.125" ry="1.15384615"></ellipse>
+                            <ellipse id="Oval-6" cx="1.125" cy="8.84615385" rx="1.125" ry="1.15384615"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
         </g>
     </g>
 </svg>

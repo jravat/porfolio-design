@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
-    <title>Colors/Main-colors</title>
+    <title>Colors/01-Main-colors</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Couleurs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Colors/Main-colors" sketch:type="MSArtboardGroup">
+        <g id="Colors/01-Main-colors" sketch:type="MSArtboardGroup">
             <g id="Titre" sketch:type="MSLayerGroup" transform="translate(0.000000, 21.000000)">
                 <text id="Main-Colors" sketch:type="MSTextLayer" font-family="Lato" font-size="30" font-weight="normal" fill="#015173">
                     <tspan x="30" y="30">Main Colors</tspan>

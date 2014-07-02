@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="279px" height="203px" viewBox="0 0 279 203" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Assets/Pictos/reception</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Custom-Pictos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Pictos/Custom" sketch:type="MSArtboardGroup" transform="translate(-412.000000, -78.000000)" fill="#000000">
+            <path d="M514.216168,176.551724 C512.992212,176.551724 512,177.538941 512,178.775862 L512,178.775862 C512,180.00422 512.998852,181 514.216168,181 L588.783832,181 C590.007788,181 591,180.012783 591,178.775862 L591,178.775862 C591,177.547505 590.001148,176.551724 588.783832,176.551724 L514.216168,176.551724 Z M580.566038,173.28622 C580.566038,156.788134 570.848197,143.413793 550.754717,143.413793 C530.661237,143.413793 520.943396,156.788134 520.943396,173.28622 C520.943396,173.28622 580.566038,173.28622 580.566038,173.28622 Z M555.226415,140.448276 C555.226415,137.991561 553.224368,136 550.754717,136 C548.285066,136 546.283019,137.991561 546.283019,140.448276 C546.283019,140.448276 555.226415,140.448276 555.226415,140.448276 Z" id="Assets/Pictos/reception" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

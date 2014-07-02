@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="870px" viewBox="0 0 1024 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
-    <title>Layout/3Columns</title>
+    <title>Layout/03-3Columns</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Layout/3Columns" sketch:type="MSArtboardGroup">
+        <g id="Layout/03-3Columns" sketch:type="MSArtboardGroup">
             <g id="Content" sketch:type="MSLayerGroup" transform="translate(0.000000, 79.000000)">
                 <text id="H2---Section-item-title" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
                     <tspan x="96" y="241">H2 - Section item title</tspan>
@@ -58,7 +58,7 @@
                 <g id="Sidebar" transform="translate(698.000000, 266.000000)">
                     <rect id="Rectangle-22" stroke="#E2E2E2" fill="#ECECEC" sketch:type="MSShapeGroup" x="0" y="0" width="230" height="200" rx="4"></rect>
                     <text id="H3---Sidebar-title" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
-                        <tspan x="20" y="33">H3 - Sidebar title</tspan>
+                        <tspan x="20" y="36">H3 - Sidebar title</tspan>
                     </text>
                 </g>
                 <g id="Content--View-mode-4" transform="translate(398.000000, 487.000000)">
