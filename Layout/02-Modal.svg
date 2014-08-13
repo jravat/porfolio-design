@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="870px" viewBox="0 0 1024 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+    <title>Layout/02-Modal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Layout/02-Modal" sketch:type="MSArtboardGroup">
+            <g id="Titre" sketch:type="MSLayerGroup" transform="translate(31.000000, 21.000000)" font-size="30" font-family="Lato" fill="#015173" font-weight="normal">
+                <text id="Modal-box---neutral" sketch:type="MSTextLayer">
+                    <tspan x="0" y="30">Modal box - neutral</tspan>
+                </text>
+            </g>
+            <rect id="Modal" fill-opacity="0.699999988" fill="#000000" sketch:type="MSShapeGroup" x="0" y="78" width="1026" height="792"></rect>
+            <text id="#000---70%-opactiy" sketch:type="MSTextLayer" font-family="Arial" font-size="22" font-weight="normal" fill="#949494">
+                <tspan x="419" y="725">#000 - 70% opactiy</tspan>
+            </text>
+            <g id="one-third-2" sketch:type="MSLayerGroup" transform="translate(223.000000, 282.000000)">
+                <path d="M3.9937353,-7.51417664e-15 C1.7880562,-7.51417664e-15 0,1.79282461 0,3.99439236 L0,379.005608 C0,381.21165 1.79484998,383 3.9937353,383 L576.006265,383 C578.211944,383 580,381.207175 580,379.005608 L580,3.99439236 C580,1.78835038 578.20515,-7.51417664e-15 576.006265,-7.51417664e-15 L3.9937353,-7.51417664e-15 Z" id="Rectangle-14" stroke="#E2E2E2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M3.9937353,-7.84770406e-16 C1.7880562,-7.84770406e-16 0,1.79642476 0,4.00002553 L0,40 L580,40 L580,4.00002553 C580,1.79087243 578.20515,-7.84770406e-16 576.006265,-7.84770406e-16 L3.9937353,-7.84770406e-16 Z" id="Rectangle-15" stroke="#E2E2E2" fill="#457F99" sketch:type="MSShapeGroup"></path>
+                <g id="cancel-+--2" transform="translate(516.000000, 12.000000)" font-weight="normal" fill="#FFFFFF" font-size="12" sketch:type="MSTextLayer">
+                    <text id="close" font-family="Arial" sketch:alignment="right">
+                        <tspan x="15.9863281" y="12">close</tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome">
+                        <tspan x="0" y="10"></tspan>
+                    </text>
+                </g>
+                <text id="580-PX" sketch:type="MSTextLayer" font-family="Lato" font-size="46" font-weight="260" sketch:alignment="middle" fill="#C7C7C7">
+                    <tspan x="218.102" y="227">580 PX</tspan>
+                </text>
+                <text id="Modal-box-title" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#FFFFFF">
+                    <tspan x="20" y="26">Modal box title</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

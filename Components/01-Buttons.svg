@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
     <title>Components/01-Buttons</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -255,17 +255,17 @@
                 </text>
                 <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             </g>
-            <text id="Primary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Primary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="234" y="137">Primary button</tspan>
             </text>
-            <text id="Small" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Small" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="75" y="231">Small</tspan>
                 <tspan x="75" y="255">28px</tspan>
             </text>
-            <text id="Secondary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Secondary-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="541" y="137">Secondary button</tspan>
             </text>
-            <text id="Inactive-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Inactive-button" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="827" y="137">Inactive button</tspan>
             </text>
             <rect id="Rectangle-4" fill="#015173" sketch:type="MSShapeGroup" x="200.691406" y="336" width="772.253906" height="80"></rect>
@@ -306,11 +306,13 @@
                     <tspan x="19.96" y="22">annuler</tspan>
                 </text>
             </g>
-            <text id="Medium" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Medium" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="50" y="412">Medium</tspan>
                 <tspan x="50" y="436">32px</tspan>
             </text>
-            <rect id="Rectangle-8" fill="#015173" sketch:type="MSShapeGroup" x="200.691406" y="513" width="772.253906" height="80"></rect>
+            <g id="Rectangle-8" sketch:type="MSLayerGroup" transform="translate(201.000000, 513.000000)" fill="#015173">
+                <rect sketch:type="MSShapeGroup" x="-0.30859375" y="0" width="772.253906" height="80"></rect>
+            </g>
             <rect id="Rectangle-7" stroke="#F2F2F2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="200.691406" y="593" width="772.253906" height="80"></rect>
             <g id="Rectangle-6-+-annuler-9" sketch:type="MSLayerGroup" transform="translate(827.000000, 537.000000)">
                 <path d="M3.99733833,0 C1.78966933,0 -1.77635684e-15,1.79642476 -1.77635684e-15,4.00002553 L-1.77635684e-15,35.9999745 C-1.77635684e-15,38.2091276 1.78323349,40 3.99733833,40 L100.002662,40 C102.210331,40 104,38.2035752 104,35.9999745 L104,4.00002553 C104,1.79087243 102.216767,0 100.002662,0 L3.99733833,0 Z" id="Rectangle-6" fill="#EEEEEE" sketch:type="MSShapeGroup"></path>
@@ -348,7 +350,7 @@
                     <tspan x="20.45" y="27">annuler</tspan>
                 </text>
             </g>
-            <text id="Large" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#333333">
+            <text id="Large" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
                 <tspan x="73" y="589">Large</tspan>
                 <tspan x="73" y="613">40px</tspan>
             </text>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
     <title>Typo/02-Hierarchy</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -12,7 +12,7 @@
                 </text>
                 <path d="M0,57.5 L1023.56146,57.5" id="Line" stroke="#015173" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             </g>
-            <g id="H1---Main-heading-in-+-For-page-title-only,-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 178.000000)">
+            <g id="H1---Main-heading-in-+-For-page-title-only,-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 168.000000)">
                 <text id="H1---Main-heading-in" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
                     <tspan x="0" y="26">H1 - Main heading in Lato Light, 26px</tspan>
                 </text>
@@ -20,8 +20,7 @@
                     <tspan x="0" y="51">For page title only, should be used only once in a page</tspan>
                 </text>
             </g>
-            <path d="M513.5,134.5 L513.5,724.810059" id="Line-2" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            <g id="H2---Main-heading-in-+-For-section-titles" sketch:type="MSLayerGroup" transform="translate(70.000000, 267.000000)">
+            <g id="H2---Main-heading-in-+-For-section-titles" sketch:type="MSLayerGroup" transform="translate(70.000000, 257.000000)">
                 <text id="H2---Section-heading" sketch:type="MSTextLayer" font-family="Lato" font-size="22" font-weight="260" fill="#015173">
                     <tspan x="0" y="22">H2 - Section heading in Lato Light, 22px</tspan>
                 </text>
@@ -29,7 +28,7 @@
                     <tspan x="0" y="46">For section titles</tspan>
                 </text>
             </g>
-            <g id="H2---Main-heading-in-+-For-section-titles-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 356.000000)">
+            <g id="H2---Main-heading-in-+-For-section-titles-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 346.000000)">
                 <text id="H3---Block-heading-i" sketch:type="MSTextLayer" font-family="Lato" font-size="16" font-weight="260" fill="#015173">
                     <tspan x="0" y="16">H3 - Block heading in Lato Light, 16px</tspan>
                 </text>
@@ -38,7 +37,7 @@
                     <tspan x="0" y="55">used in body copy if needed</tspan>
                 </text>
             </g>
-            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe" sketch:type="MSLayerGroup" transform="translate(70.000000, 444.000000)" font-family="Arial" fill="#585858" font-weight="normal">
+            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe" sketch:type="MSLayerGroup" transform="translate(70.000000, 434.000000)" font-family="Arial" fill="#585858" font-weight="normal">
                 <text id="H4---Title-within-co" sketch:type="MSTextLayer" font-size="15">
                     <tspan x="0" y="14">H4 - Title within content in Arial, 14px</tspan>
                 </text>
@@ -46,7 +45,7 @@
                     <tspan x="0" y="41">Mainly use in content for title and hierarchy</tspan>
                 </text>
             </g>
-            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 526.000000)" font-family="Arial" fill="#585858" font-weight="normal">
+            <g id="Body-copy---Arial,-1-+-Be-careful-that-depe-2" sketch:type="MSLayerGroup" transform="translate(70.000000, 566.000000)" font-family="Arial" fill="#585858" font-weight="normal">
                 <text id="Body-copy---Arial,-1" sketch:type="MSTextLayer" font-size="15">
                     <tspan x="0" y="14">Body copy - Arial, 12px</tspan>
                 </text>
@@ -56,12 +55,56 @@
                     <tspan x="0" y="67">font-size may also be changed for the same purpose.</tspan>
                 </text>
             </g>
-            <text id="Text-hierarchy" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
-                <tspan x="70" y="154">Text hierarchy</tspan>
+            <text id="Links-2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
+                <tspan x="619" y="154">Links</tspan>
             </text>
-            <text id="Text-decoration" sketch:type="MSTextLayer" font-family="Lato" font-size="26" font-weight="260" fill="#015173">
-                <tspan x="582" y="154">Text decoration</tspan>
+            <text id="Headings" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
+                <tspan x="70" y="153">Headings</tspan>
             </text>
+            <text id="Text" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
+                <tspan x="70" y="552">Text</tspan>
+            </text>
+            <text id="-Link-with-a-pictog-3" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#028ECA">
+                <tspan x="619" y="180"></tspan>
+                <tspan x="629.285714" y="180"> </tspan>
+                <tspan x="632.285714" y="180" font-family="Arial">Link with a pictogram</tspan>
+            </text>
+            <text id="-Simple-link--2" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#028ECA">
+                <tspan x="787" y="180"></tspan>
+                <tspan x="791.285714" y="180"> </tspan>
+                <tspan x="794.285714" y="180" font-family="Arial">Simple link </tspan>
+            </text>
+            <text id="-Link-with-a-pictog-4" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#949494">
+                <tspan x="619" y="200"></tspan>
+                <tspan x="629.285714" y="200"> </tspan>
+                <tspan x="632.285714" y="200" font-family="Arial">Link with a pictogram</tspan>
+            </text>
+            <text id="-Simple-link--3" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#949494">
+                <tspan x="787" y="200"></tspan>
+                <tspan x="791.285714" y="200"> </tspan>
+                <tspan x="794.285714" y="200" font-family="Arial">Simple link </tspan>
+            </text>
+            <text id="Back-link-2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
+                <tspan x="618" y="252">Back link</tspan>
+            </text>
+            <text id="Links-inside-a-text-2" sketch:type="MSTextLayer" font-family="Lato" font-size="20" font-weight="normal" fill="#585858">
+                <tspan x="619" y="334">Links inside a text</tspan>
+            </text>
+            <text id="There-is-a-momentary-2" sketch:type="MSTextLayer" font-family="Arial" font-size="12" font-weight="normal" fill="#939393">
+                <tspan x="619" y="360">There is a momentary problem with </tspan>
+                <tspan x="619" y="374">the </tspan>
+                <tspan x="639.015625" y="374" text-decoration="underline">channel’s server</tspan>
+                <tspan x="725.511719" y="374">, wait a moment </tspan>
+                <tspan x="619" y="388">and relaunch synchronization.</tspan>
+            </text>
+            <g id="retour-+--3" sketch:type="MSLayerGroup" transform="translate(620.000000, 270.000000)" font-weight="normal" fill="#F76401" font-size="12">
+                <text id="back" sketch:type="MSTextLayer" font-family="Arial" sketch:alignment="right">
+                    <tspan x="16.6523438" y="11">back</tspan>
+                </text>
+                <text id="" sketch:type="MSTextLayer" font-family="FontAwesome">
+                    <tspan x="0" y="10"></tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
